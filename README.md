@@ -3,3 +3,5 @@
 https://zduvall.github.io/404-costume-not-found/
 
 ![qr-code]('qr-code.png')
+
+<!-- Google doc: https://docs.google.com/document/d/1ctBHv7gKOrhl8CpnJ4H8rpOewPTdOr8hnqIsFAITZIY/edit?usp=sharing -->
